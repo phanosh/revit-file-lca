@@ -1,3 +1,7 @@
+#toDO:: Bring in mapping API
+#toDO:: calculate A1A3 emissions
+#toDO:: plot emissions and beautify dashboard
+
 import pandas as pd
 import streamlit as st
 import altair as alt
